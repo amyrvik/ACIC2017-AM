@@ -1,4 +1,5 @@
 # ACIC2017-AM
+<<<<<<< HEAD
 Butterfly Distribution Project
 ISTA 422/522 ACIC
 F17
@@ -26,3 +27,4 @@ General Approach Given By Instructors:
         7)Create graphic with standardized name for use on eButterfly.org web resource
 Repeat steps 4-7 for remaining months
 Repeat steps 3-7 for remaining species
+>>>>>>> c2d30479d147baf18a76cb06100638fcb7f539f2
